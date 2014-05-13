@@ -1,7 +1,5 @@
-gumtree-addressbook
-===================
-
 Gumtree Adressbook – Development Guide
+===================
 
 ## Introduction
 The purpose of this application is to read structured data in provided AddressBook file and anwser following questions:
